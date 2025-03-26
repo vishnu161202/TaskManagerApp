@@ -41,4 +41,16 @@ This project is primarily built using HTML, CSS, and JavaScript, with the follow
 - **HTML**: 17.2%
 - **CSS**: 7.1%
 
+## Assumptions
+
+During the development process, the following assumptions were made:
+
+- Users will interact with the application on a modern web browser (e.g., Chrome, Firefox, Edge) with JavaScript enabled.
+- No backend storage is required; tasks will persist only during the session.
+- The application is designed for single-user usage and does not support multiple user accounts or authentication.
+- The task list is displayed in a simple, minimalistic UI without advanced sorting or filtering options.
+- The project does not include a database; tasks are managed using JavaScript arrays and stored in memory.
+- Users are expected to manually save their task lists if needed, as no persistence mechanism is implemented.
+
 For more details, visit the [GitHub repository](https://github.com/vishnu161202/TaskManagerApp).
+
